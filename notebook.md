@@ -1,7 +1,8 @@
 # Week Fri 11/30/18 - Thu 11/06/18
 * Finalize the project.md
-* Performed code consolidation by creating the functions
+* Performed code consolidation by creating the python functions
 * Led Project closure meeting.
+* Created function to write that reads the credentials from file
 
 # Week Fri 11/23/18 - Thu 11/29/18
 
