@@ -1,3 +1,8 @@
+# Week Fri 11/30/18 - Thu 11/06/18
+* Finalize the project.md
+* Performed code consolidation by creating the functions
+* Led Project closure meeting.
+
 # Week Fri 11/23/18 - Thu 11/29/18
 
 * Implemented and completed the logistic regression for project
@@ -16,6 +21,7 @@
 * Corrected the references in the paper.md
 * Developed to ptyhon script to push the csv data Cloud instance using PyMongo.
 * Working on Implementing Machine Learning algorithm.
+* Coordinated and led the project meetings
 
 # Week Fri 11/16/18 - Thu 11/22/18
 
@@ -24,6 +30,7 @@
 * Created *MongoDB Atlas* Cloud Instance and cluster,created users.
 * Developed to script to push the csv data Cloud instance using PyMongo.
 * Attended the Office Hours to seek guidance on deploying Apps.
+* Coordinated and led the project meetings
 
 # Week Fri 11/9/18 - Thu 11/15/18
 
@@ -31,6 +38,7 @@
 * Installed configured *Docker,Docker-Compose* and tried to build containers.
 * Performed the project research and design analysis.
 * Corrected the references in MongoDB Section.
+* Coordinated and led the project meetings
 
 # Week Fri 11/2/18 - Thu 11/8/18
 
