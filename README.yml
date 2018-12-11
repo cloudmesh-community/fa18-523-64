@@ -4,7 +4,7 @@ owner:
   hid: "fa18-523-64"
   community: "i523"
   semester: "fa18"
-  profilr: https://github.com/nishadtupe
+  profile: https://github.com/nishadtupe
 technologies:
   - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/giraph.md
   - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/cloudstack.md
