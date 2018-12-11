@@ -5,19 +5,26 @@ owner:
   community: "i523"
   semester: "fa18"
   profile: https://github.com/nishadtupe
+  online: "yes"
+  
+notebook:
+  - url: https://github.com/cloudmesh-community/fa18-523-64/blob/master/notebook.md
+
 technologies:
   - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/giraph.md
   - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/cloudstack.md
   - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/cloud-foundry.md
   - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/rkt.md
+  
 paper:
-  - keyword: MongoDB
-    title: "MongoDB in Python"
+  - title: "MongoDB in Python"
+    keyword: MongoDB
     url: https://github.com/cloudmesh-community/book/blob/master/chapters/data/mongodb.md
     group: fa18-523-60 fa18-523-64 fa18-523-72
+    
 project:
-  - keyword: MongoDB, PyMongo, Crowdfunding, VM's, IaaS & DBaaS Cloud, Data Analysis, Predictions
-    title: "Kickstarter Projects Analysis"
+  - title: "Kickstarter Projects Analysis"
+    keyword: MongoDB, PyMongo, Crowdfunding, VM's, IaaS & DBaaS Cloud, Data Analysis, Predictions
     url: https://github.com/cloudmesh-community/fa18-523-60/blob/master/project-report/report.md
     group: fa18-523-60 fa18-523-64 fa18-523-72
     code: https://github.com/cloudmesh-community/fa18-523-60/tree/master/project-report/bin
