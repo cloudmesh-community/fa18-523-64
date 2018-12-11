@@ -1,4 +1,7 @@
-# Week Fri 11/30/18 - Thu 11/06/18
+# Week Fri 12/07/18 - Thu 12/11/18
+* Finalize the notebook.md
+
+# Week Fri 11/30/18 - Thu 12/06/18
 * Finalize the project.md
 * Performed code consolidation by creating the python functions
 * Led Project closure meeting.
